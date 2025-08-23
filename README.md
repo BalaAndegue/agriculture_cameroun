@@ -13,8 +13,8 @@ Un système intelligent multi-agents basé sur l'Agent Development Kit (ADK) de 
 **Mbassi Loic Aron**
 
 - 📧 Email: [balaandeguefrancoislionnel@gmail.com](mailto:balaandeguefrancoislionnel@gmail.com)
-- 🌐 Portfolio: [mbassiloic.tech](http://francoislionnel.tech/)
-- 🐙 GitHub: [@Nameless0l](https://github.com/BalaAndegue)
+- 🌐 Portfolio: [francoislionnel.tech](http://francoislionnel.tech/)
+- 🐙 GitHub: [@BalaAndegue](https://github.com/BalaAndegue)
 
 ## 🎯 Objectif
 

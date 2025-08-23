@@ -1,6 +1,5 @@
 # Copyright 2025 Agriculture Cameroun
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
+
 
 """Agent principal pour le système multi-agents agriculture camerounaise."""
 

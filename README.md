@@ -10,7 +10,7 @@ Un système intelligent multi-agents basé sur l'Agent Development Kit (ADK) de 
 
 ## 👨‍💻 Auteur
 
-**Mbassi Loic Aron**
+**Bala Andegue Francois**
 
 - 📧 Email: [balaandeguefrancoislionnel@gmail.com](mailto:balaandeguefrancoislionnel@gmail.com)
 - 🌐 Portfolio: [francoislionnel.tech](http://francoislionnel.tech/)

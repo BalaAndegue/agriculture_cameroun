@@ -1,3 +1,4 @@
+
 # 📖 User Guide - Agriculture Cameroun
 
 ## Table des matières
@@ -320,6 +321,6 @@ DIALECT_PREFERENCE=ewondo
 
 - **Documentation :** [GitHub Repository](https://github.com/BalaAndegue/agriculture-cameroun)
 - **Issues :** Signalez les bugs sur GitHub Issues
-- **Email :** wwwmbassiloic@gmail.com
+- **Email :** wwwbalaandegue@gmail.com
 
 ---

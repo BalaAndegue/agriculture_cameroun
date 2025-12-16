@@ -5,13 +5,13 @@ Merci de votre intérêt pour contribuer au projet Agriculture Cameroun ! Ce gui
 ## 🎯 Types de Contributions
 
 ### 🐛 Signaler des bugs
-- Utiliser les [GitHub Issues](https://github.com/Nameless0l/agriculture-cameroun/issues)
+- Utiliser les [GitHub Issues](https://github.com/BalaAndegueagriculture-cameroun/issues)
 - Fournir une description détaillée
 - Inclure les étapes de reproduction
 - Préciser l'environnement (OS, Python, etc.)
 
 ### 💡 Proposer des fonctionnalités
-- Ouvrir une [Discussion GitHub](https://github.com/Nameless0l/agriculture-cameroun/discussions)
+- Ouvrir une [Discussion GitHub](https://github.com/BalaAndegueagriculture-cameroun/discussions)
 - Expliquer le cas d'usage
 - Proposer une solution technique
 - Évaluer l'impact sur les utilisateurs
@@ -44,7 +44,7 @@ git clone https://github.com/votre-username/agriculture-cameroun.git
 cd agriculture-cameroun
 
 # Ajouter le repository original comme remote
-git remote add upstream https://github.com/Nameless0l/agriculture-cameroun.git
+git remote add upstream https://github.com/BalaAndegueagriculture-cameroun.git
 ```
 
 ### 2. Installation Développeur

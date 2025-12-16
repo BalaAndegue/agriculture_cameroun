@@ -11,8 +11,8 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 B    echo "📞 Support:"
     echo "- GitHub Issues: https://github.com/Nameless0l/agriculture-cameroun/issues"
-    echo "- Email: wwwmbassiloic@gmail.com"
-    echo "- Portfolio: http://mbassiloic.tech/"='\033[0;34m'
+    echo "- Email: wwwbalaandegue@gmail.com"
+    echo "- Portfolio: http://balaandegue.tech/"='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Fonctions utilitaires

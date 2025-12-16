@@ -156,8 +156,8 @@ Write-Host "- Démarrage rapide: QUICKSTART.md" -ForegroundColor White
 Write-Host ""
 Write-Host "🆘 Support:" -ForegroundColor Cyan
 Write-Host "- GitHub Issues: https://github.com/Nameless0l/agriculture-cameroun/issues" -ForegroundColor White
-Write-Host "- Email: wwwmbassiloic@gmail.com" -ForegroundColor White
-Write-Host "- Portfolio: http://mbassiloic.tech/" -ForegroundColor White
+Write-Host "- Email: wwwbalaandegue@gmail.com" -ForegroundColor White
+Write-Host "- Portfolio: http://balaandegue.tech/" -ForegroundColor White
 Write-Host ""
 
 if ($testPassed) {
